@@ -1,0 +1,5 @@
+br\ufc\mdcc\ehtestminer\util\Util.class
+br\ufc\mdcc\ehtestminer\model\TestMethodInfo.class
+br\ufc\mdcc\ehtestminer\miner\TestMethodInfoMiner.class
+br\ufc\mdcc\ehtestminer\model\Dataset.class
+br\ufc\mdcc\ehtestminer\EHTestMinerApi.class
